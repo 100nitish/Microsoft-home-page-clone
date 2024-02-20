@@ -1,0 +1,36 @@
+.midicon{
+    display: flex;
+    
+    justify-content: space-between;
+    
+    font-size: 30px;
+    margin: 100px 230px;
+    gap: 5px;
+    
+}
+.mid1{
+    display: inline-block;
+    text-align: center;
+}
+.mid2{
+    display: inline-block;
+    text-align: center;
+}
+.mid3{
+    display: inline-block;
+    text-align: center;
+}
+.mid4{
+    display: inline-block;
+    text-align: center;
+}
+
+.midicon p{
+    padding: 20px;
+    
+    font-size: 17px;
+    color: blue;
+    text-decoration: underline;
+    
+    
+}

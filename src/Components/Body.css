@@ -1,0 +1,38 @@
+
+.body{
+    position: relative;
+}
+.body img{
+    width: 100%;
+    height: auto;
+
+}
+.side{
+    
+    position: absolute;
+    top: 40%;
+    padding-left: 60%;
+}
+.side h2{
+    font-size: 35px;
+}
+.side p{
+    margin-top: 10px;
+    max-width: 350px;
+    font-size: 18px;
+}
+.side button{
+    margin-top: 30px;
+    padding: 10px;
+   
+    font-size: 17px;
+    border: 1px solid white;
+    border-radius: 3px;
+    
+    background-color:cornflowerblue;
+    color: white;
+    font-weight: bold;
+}
+.side button:hover{
+    background-color: rgb(29, 160, 207);
+}

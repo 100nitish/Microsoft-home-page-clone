@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    
+    justify-content: space-around;
+    background-color: lightgrey;
+    padding: 50px 50px;
+
+}
+.footer li{
+    list-style-type: none;
+    padding-top: 20px;
+    font-size: 13px;
+}
